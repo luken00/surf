@@ -1,0 +1,7 @@
+# generated files
+config.h
+surf
+
+# patches
+/patches
+*.diff
